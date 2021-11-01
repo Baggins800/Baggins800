@@ -4,6 +4,12 @@ I work as the lead software developer at elytica.
 Currently, I write mathematical models and algorithms for real-world optimization problems. I am the author of a proprietary mathematical modelling language (hlpl) that can use several different solvers technologies. My general purpose programming language preference is C++, and for Web development, Laravel (PHP), but any MVC framework in any language is acceptable. I use CMake for makefile generation in C++ and git for version control.
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-luies-771b6b168/)[![!Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baggins800)
+### Websites:
+[elytica Service](https://service.elytica.com)<br>
+[elytica Modelling language](https://compute.elytica.com)<br>
+[elytica Supplier Selection](https://warehouse.elytica.com)<br>
+[elytica Graph Service](https://gisgraph.com)<br>
+
 ### Preferences:
 ##### Languages:
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()[![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()

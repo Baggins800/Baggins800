@@ -4,6 +4,8 @@ I work as the lead software developer at elytica.
 Currently, I write mathematical models and algorithms for real-world optimization problems. I am the author of a proprietary mathematical modelling language (hlpl) that can use several different solvers technologies. My general purpose programming language preference is C++, and for Web development, Laravel (PHP), but any MVC framework in any language is acceptable. I use CMake for makefile generation in C++ and git for version control.
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-luies-771b6b168/)[![!Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baggins800)
+### Documents:
+[PhD Thesis](https://blog.elytica.com/wp-content/uploads/2021/11/RLuies23511354PhDThesisFinal.pdf)
 ### Websites:
 [elytica Service](https://service.elytica.com)<br>
 [elytica Modelling language](https://compute.elytica.com)<br>

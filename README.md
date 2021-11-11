@@ -19,7 +19,6 @@ Currently, I write mathematical models and algorithms for real-world optimizatio
 * The languages/technologies mentioned were used in at least one project (likely more).
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=baggins800)]()
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=baggins800&count_private=true&theme=dark&layout=compact&card_width=384pt&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baggins800&count_private=true&theme=dark&show_icons=true&hide_title=true&card_width=384pt)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=baggins800&count_private=true&show_icons=true&hide_title=true)]()
 
 

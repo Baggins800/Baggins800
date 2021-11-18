@@ -19,7 +19,6 @@ Currently, I write mathematical models and algorithms for real-world optimizatio
 )]()[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)]()[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()[![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()[![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)]()
 
 * The languages/technologies mentioned were used in at least one project (likely more).
-* 
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=baggins800)]()
 [![](https://github-readme-stats.vercel.app/api?username=baggins800&count_private=true&show_icons=true&hide_title=true)]()

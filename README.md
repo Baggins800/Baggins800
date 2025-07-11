@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Baggins800/Baggins800/blob/main/baggins.gif)
 
-I am the CTO at elytica and the author of mathematical modelling language (hlpl) that can use several different solvers technologies. I make decision on technologies used within the company and write mathematical models and algorithms for real-world optimization problems. My current preference for a general purpose language is rust, and moving forward all new projects I start will likely be written in rust (it was c++ in the past).
+I am the CTO at elytica and the author of mathematical modelling language (hlpl) that can use several different solvers technologies. I decide on technologies used within the company and write mathematical models and algorithms for real-world optimization problems. My current preference for a general-purpose language is Rust, and moving forward, all new projects I start will likely be written in Rust (it was C++ in the past).
 
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-luies-771b6b168/)[![!Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baggins800)

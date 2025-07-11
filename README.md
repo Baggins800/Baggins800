@@ -2,8 +2,8 @@
 
 ![image](https://github.com/Baggins800/Baggins800/blob/main/baggins.gif)
 
-I am the lead software developer at elytica.
-Currently, I write mathematical models and algorithms for real-world optimization problems. I am the author of a proprietary mathematical modelling language (hlpl) that can use several different solvers technologies. My general purpose programming language preference is C++, and for Web development, Laravel (PHP), but any MVC framework in any language is acceptable. I use CMake for makefile generation in C++ and git for version control.
+I am the CTO at elytica and the author of mathematical modelling language (hlpl) that can use several different solvers technologies. I make decision on technologies used within the company and write mathematical models and algorithms for real-world optimization problems. My current preference for a general purpose language is rust, and moving forward all new projects I start will likely be written in rust (it was c++ in the past).
+
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-luies-771b6b168/)[![!Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baggins800)
 ### Documents:
@@ -12,7 +12,6 @@ Currently, I write mathematical models and algorithms for real-world optimizatio
 [elytica Service](https://service.elytica.com)<br>
 [elytica Modelling language](https://compute.elytica.com)<br>
 [elytica Supplier Selection](https://warehouse.elytica.com)<br>
-[elytica Graph Service](https://gisgraph.com)<br>
 [elytica Simulation](https://gebs.elytica.com)<br>
 
 ### Preferences:

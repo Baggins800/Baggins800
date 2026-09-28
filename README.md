@@ -7,7 +7,7 @@ I am the CTO at elytica and the author of mathematical modelling language (hlpl)
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-luies-771b6b168/)[![!Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baggins800)
 ### Documents:
-[PhD Thesis](https://blog.elytica.com/wp-content/uploads/2021/11/RLuies23511354PhDThesisFinal.pdf)
+[PhD Thesis](https://repository.nwu.ac.za/bitstreams/b6da27a3-6dbd-4b29-a207-46d64a9a20c7/download)
 ### Websites:
 [elytica Service](https://service.elytica.com)<br>
 [VerTeX](https://ide.elytica.com)<br>
